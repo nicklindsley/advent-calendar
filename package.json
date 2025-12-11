@@ -10,7 +10,17 @@
         "prepare": "husky",
         "problem-1": "npm run build && node dist/2025/problem1",
         "problem-2-1": "npm run build && node dist/2025/problem2/part1",
-        "problem-2-2": "npm run build && node dist/2025/problem2/part2"
+        "problem-2-2": "npm run build && node dist/2025/problem2/part2",
+        "problem-3-1": "npm run build && node dist/2025/problem3/part1",
+        "problem-4-1": "npm run build && node dist/2025/problem4/part1",
+        "problem-5-1": "npm run build && node dist/2025/problem5/part1",
+        "problem-6-1": "npm run build && node dist/2025/problem6/part1",
+        "problem-7-1": "npm run build && node dist/2025/problem7/part1",
+        "problem-8-1": "npm run build && node dist/2025/problem8/part1",
+        "problem-9-1": "npm run build && node dist/2025/problem9/part1",
+        "problem-10-1": "npm run build && node dist/2025/problem10/part1",
+        "problem-11-1": "npm run build && node dist/2025/problem11/part1",
+        "problem-12-1": "npm run build && node dist/2025/problem12/part1"
     },
     "devDependencies": {
         "@eslint/js": "^9.39.1",
